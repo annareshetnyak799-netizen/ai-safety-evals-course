@@ -5,7 +5,7 @@ This repository contains my weekly notebook assignments for a 5-week course on A
 ## Contents
 
 - [Week 1 — Inspect AI Tutorial](./week1)
-- Week 2 — coming soon
+- [Week 2 — MMLU Statistical Evaluation Notes](./week2/README.md)
 - Week 3 — coming soon
 - Week 4 — coming soon
 - Week 5 — coming soon
