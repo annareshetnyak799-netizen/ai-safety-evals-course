@@ -7,8 +7,7 @@ This repository contains my weekly notebook assignments for a 5-week course on A
 - [Week 1 — Inspect AI Tutorial](./week1)
 - [Week 2 — MMLU Statistical Evaluation Notes](./week2/README.md)
 - [Week 3 — Custom Evaluator and LLM Judge Notes](./week3/README.md)
-- Week 4 — coming soon
-- Week 5 — coming soon
+- [Week 4 — Agent Evaluation and Mathematical Reasoning Notes](./week4/README.md)
 
 ## Notes
 
