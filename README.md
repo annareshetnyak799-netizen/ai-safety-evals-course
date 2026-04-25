@@ -81,11 +81,12 @@ The main themes I took away:
 
 This course provided the methodological foundation for two applied projects in the same direction:
 
-- **[agentops-triage-poc](../agentops-triage-poc)** — applies the eval discipline from Weeks 3 and 4 (rubric-based scoring, decomposed metrics, LLM-judge auditing) to a bounded agentic system with explicit safety gates.
-- **[agenthub-platform](../agenthub-platform)** — extends agent evaluation to **infrastructure-level safety** (gateway guardrails, multi-provider routing, observability for inter-agent traffic) — naturally building on the agent-evaluation work in Week 4.
+- **[agentops-triage-poc](https://github.com/annareshetnyak799-netizen/agentops-triage-poc)** — applies the eval discipline from Weeks 3 and 4 (rubric-based scoring, decomposed metrics, LLM-judge auditing) to a bounded agentic system with explicit safety gates.
+- **[agenthub-platform](https://github.com/annareshetnyak799-netizen/agenthub-platform)** — extends agent evaluation to **infrastructure-level safety** (gateway guardrails, multi-provider routing, observability for inter-agent traffic) — naturally building on the agent-evaluation work in Week 4.
 
 ---
 
 ## Author
 
 Anna Reshetnyak — MLE transitioning into AI safety research. Currently in the project track of the Monoid AI Safety course.
+
